@@ -3,6 +3,17 @@
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
 <meta name="description" content="{{ site.description }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Hotjar Tracking Code for my site -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3774992,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
 {% include share-meta.html %}
 <link rel="canonical" href="{% include canonical-url.html %}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}{{ site.nav.writing.rss }}">
