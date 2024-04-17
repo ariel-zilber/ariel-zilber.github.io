@@ -17,6 +17,31 @@
 A large body of ground work on adversarial attacks is on images, and differently it operates in the continuous, high-dimensional space.</description>
     </item>
     
+       <item>
+      <title>Transformers Inference optimizations methods</title>
+      <link>https://ariel-zilber.github.io/posts/2024-17-25-transformers-efficient-inference/</link>
+      <pubDate>Wed, 17 Apr 2024$ 00:00:00 +0000</pubDate>
+      
+      <guid>https://ariel-zilber.github.io/posts/2024-17-25-transformers-efficient-inference/</guid>
+      <description>How to optimize transfoermers methods</description>
+    </item>
+    
    
+
+
+<article class="post-entry tag-entry"> 
+    <header class="entry-header">
+      <h2>Transformers Inference optimizations methods
+      </h2>
+    </header>
+    <section class="entry-content">
+      <p>T....</p>
+    </section>
+    <footer class="entry-footer">Date: April 17, 2024  |  Estimated Reading Time: 33 min  |  Author: Ariel Zilber</footer>
+    <a class="entry-link" aria-label="post link to Transformers Inference Optimization methods" href="https://ariel-zilber.github.io/posts/2024-17-25-transformers-efficient-inference/"></a>
+  </article>
+
+
+
   </channel>
 </rss>

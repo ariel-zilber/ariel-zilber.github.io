@@ -6,7 +6,7 @@
     <description>Recent content in adversarial attacks on ariel-zilber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ariel-zilber.github.io/tags/adversarial-attacks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ariel-zilber.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adversarial Attacks on LLMs</title>
       <link>https://ariel-zilber.github.io/posts/2023-10-25-adv-attack-llm/</link>
@@ -16,6 +16,16 @@
       <description>The use of large language models in the real world has strongly accelerated by the launch of ChatGPT. We (including my team at OpenAI, shoutout to them) have invested a lot of effort to build default safe behavior into the model during the alignment process (e.g. via RLHF). However, adversarial attacks or jailbreak prompts could potentially trigger the model to output something undesired.
 A large body of ground work on adversarial attacks is on images, and differently it operates in the continuous, high-dimensional space.</description>
     </item>
+    
+       <item>
+      <title>Transformers Inference optimizations methods</title>
+      <link>https://ariel-zilber.github.io/posts/2024-17-25-transformers-efficient-inference/</link>
+      <pubDate>Wed, 17 Apr 2024$ 00:00:00 +0000</pubDate>
+      
+      <guid>https://ariel-zilber.github.io/posts/2024-17-25-transformers-efficient-inference/</guid>
+      <description>How to optimize transfoermers methods</description>
+    </item>
+    
     
   </channel>
 </rss>
